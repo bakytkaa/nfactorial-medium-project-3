@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "image_url": "/images/post2.jpg",
+  "author": "Jane Smith",
+  "title": "Mastering Asynchronous Programming in JavaScript",
+  "content": "Asynchronous programming is a crucial aspect of JavaScript, especially when dealing with tasks such as fetching data from servers or handling user interactions without blocking the main thread. Promises, async/await, and callbacks are essential tools for mastering asynchronous JavaScript. In this post, we'll dive deep into these concepts, providing examples and practical tips to help you become proficient in asynchronous programming.",
+  "date": "2024-03-17",
+  "tag": "JavaScript",
+  "readTime": 10,
+  "likes": 200,
+  "comments": 30
+}

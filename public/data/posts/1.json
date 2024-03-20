@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "image_url": "/images/post1.jpg",
+  "author": "John Doe",
+  "title": "Exploring the World of JavaScript",
+  "content": "JavaScript is a versatile programming language that is widely used for web development. It allows developers to create dynamic and interactive websites with ease. From front-end frameworks like React and Angular to back-end environments like Node.js, JavaScript powers a significant portion of the modern web. In this post, we'll delve into the fascinating world of JavaScript, exploring its features, best practices, and various applications.",
+  "date": "2024-03-15",
+  "tag": "JavaScript",
+  "readTime": 8,
+  "likes": 150,
+  "comments": 25
+}

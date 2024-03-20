@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_url": "/images/post1.jpg",
+    "author": "John Doe",
+    "title": "Exploring the World of JavaScript",
+    "content": "JavaScript is a versatile programming language that is widely used for web development. It allows developers to create dynamic and interactive websites with ease. From front-end frameworks like React and Angular to back-end environments like Node.js, JavaScript powers a significant portion of the modern web. In this post, we'll delve into the fascinating world of JavaScript, exploring its features, best practices, and various applications.",
+    "date": "2024-03-15",
+    "tag": "JavaScript",
+    "readTime": 8,
+    "likes": 150,
+    "comments": 25
+  },
+  {
+    "id": 2,
+    "image_url": "/images/post2.jpg",
+    "author": "Jane Smith",
+    "title": "Mastering Asynchronous Programming in JavaScript",
+    "content": "Asynchronous programming is a crucial aspect of JavaScript, especially when dealing with tasks such as fetching data from servers or handling user interactions without blocking the main thread. Promises, async/await, and callbacks are essential tools for mastering asynchronous JavaScript. In this post, we'll dive deep into these concepts, providing examples and practical tips to help you become proficient in asynchronous programming.",
+    "date": "2024-03-17",
+    "tag": "JavaScript",
+    "readTime": 10,
+    "likes": 200,
+    "comments": 30
+  },
+  {
+    "id": 3,
+    "image_url": "/images/post3.jpg",
+    "author": "Alex Johnson",
+    "title": "Building Scalable Web Applications with Node.js",
+    "content": "Node.js has revolutionized the way we build web applications, enabling developers to use JavaScript for both client-side and server-side development. Its non-blocking, event-driven architecture makes it ideal for building scalable and high-performance web applications. In this post, we'll explore the principles of building scalable web applications with Node.js, covering topics such as asynchronous I/O, clustering, and microservices architecture.",
+    "date": "2024-03-19",
+    "tag": "JavaScript",
+    "readTime": 12,
+    "likes": 180,
+    "comments": 20
+  }
+]

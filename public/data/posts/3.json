@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "image_url": "/images/post3.jpg",
+  "author": "Alex Johnson",
+  "title": "Building Scalable Web Applications with Node.js",
+  "content": "Node.js has revolutionized the way we build web applications, enabling developers to use JavaScript for both client-side and server-side development. Its non-blocking, event-driven architecture makes it ideal for building scalable and high-performance web applications. In this post, we'll explore the principles of building scalable web applications with Node.js, covering topics such as asynchronous I/O, clustering, and microservices architecture.",
+  "date": "2024-03-19",
+  "tag": "JavaScript",
+  "readTime": 12,
+  "likes": 180,
+  "comments": 20
+}
